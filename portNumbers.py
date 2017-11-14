@@ -1,4 +1,3 @@
-import random
 
 def portTester():
     portNums = {'LDAP': 389, 'POP3': 110, 'IMAP4': 143, 'SLP': 427, 'FTP': '20/21',
